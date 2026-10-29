@@ -31,8 +31,8 @@ I'm interested in software development, databases, data engineering, and artific
 
 ## 🛠️ Technologies & Tools
 
-**Programming:** Python, C#, JavaScript  
-**Web Development:** HTML, CSS  
+**Programming:** Python, C#, JavaScript, C  
+**Web Development:** HTML, CSS, PHP  
 **Databases:** MySQL  
 **Currently learning:** Git, GitHub, data analysis, and software engineering practices
 
