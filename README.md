@@ -7,12 +7,12 @@
 
 ## 🇧🇷 Sobre mim
 
-Olá! Sou estudante de **Ciência de Dados e Inteligência Artificial na FEI**, com formação técnica em **Análise e Desenvolvimento de Sistemas pela ETEC**.
+Olá! Sou estudante de **Ciência de Dados e Inteligência Artificial na FEI**, com formação técnica em ** Desenvolvimento de Sistemas pela ETEC**.
 
 Tenho interesse em desenvolvimento de software, bancos de dados, engenharia de dados e inteligência artificial. Estou construindo meus conhecimentos por meio dos estudos, projetos práticos e aprendizado contínuo.
 
 - 🎓 Ciência de Dados e Inteligência Artificial — FEI
-- 💻 Formação técnica em Análise e Desenvolvimento de Sistemas — ETEC
+- 💻 Formação técnica em Desenvolvimento de Sistemas — ETEC
 - 🌱 Aprendendo e desenvolvendo projetos em programação, dados e tecnologia
 - 🎯 Objetivo: crescer profissionalmente e contribuir para projetos que resolvam problemas reais.
 
